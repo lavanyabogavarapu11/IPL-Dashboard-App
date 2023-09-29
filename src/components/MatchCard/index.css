@@ -22,7 +22,7 @@
 
 .competing-team-logo {
   width: 60px;
-  height: 60px;
+  height: 40px;
 }
 @media screen and (min-width: 768px) {
   .competing-team-logo {

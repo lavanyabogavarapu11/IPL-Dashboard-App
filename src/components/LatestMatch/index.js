@@ -34,9 +34,9 @@ const LatestMatch = props => {
         </div>
         <hr className="separator" />
         <div className="latest-match-details-2">
-          <p className="latest-match-details-label"> first Innings </p>
+          <p className="latest-match-details-label"> First Innings </p>
           <p className="latest-match-details-value"> {firstInnings} </p>
-          <p className="latest-match-details-label"> second innings </p>
+          <p className="latest-match-details-label"> Second innings </p>
           <p className="latest-match-details-value"> {secondInnings}</p>
           <p className="latest-match-details-label"> Man of the Match </p>
           <p className="latest-match-details-value"> {manOfTheMatch}</p>
